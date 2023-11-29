@@ -1,7 +1,7 @@
 # GeoGuesser_Bot_PyTorch
 
 ## About
-<p>Due to the technically consumption heavy nature of ML training I made this work only for contintents as i didnt have access to a gpu as well as I didnt have access to very large data sets. I truly enjoyed expirementing with pyTorch and am quite happy with the results, read the instructions below if youd like to try (may have some issues here and there because i reorgenized some files)</p>
+<p>Due to the technically consumption heavy nature of ML training I made this work only for contintents as i didnt have access to a gpu as well as I didnt have access to very large data sets. Although it would be extremly easy to expand and make work well with a better data set and a more powerful computing system. I truly enjoyed expirementing with pyTorch and am quite happy with the results, read the instructions below if youd like to try (may have some issues here and there because i reorgenized some files)</p>
 
 ## Sample Images
 
