@@ -4,3 +4,4 @@ models/
 best_model.pth
 model_best_checkpoint.pth.tar
 screenshot_success.png
+imagesForReadMe
