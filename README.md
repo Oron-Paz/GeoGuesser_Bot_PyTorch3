@@ -3,6 +3,13 @@
 ## About
 <p>Due to the technically consumption heavy nature of ML training I made this work only for contintents as i didnt have access to a gpu as well as I didnt have access to very large data sets. I truly enjoyed expirementing with pyTorch and am quite happy with the results, read the instructions below if youd like to try (may have some issues here and there because i reorgenized some files)</p>
 
+## Sample Images
+
+![Sample Image 1](classification/antartica.jpeg)
+*Image of Continent 1*
+
+![Sample Image 2](screenshot_success.png)
+*Image of Continent 2*
 
 <p>
   RUN PROCESS:
