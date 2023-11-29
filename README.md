@@ -8,7 +8,7 @@
 ![Sample Image 1](classification/antartica.jpeg)
 *Image of Continent 1*
 
-![Sample Image 2](screenshot_success.png)
+![Sample Image 2](imagesForReadMe/screenshot_success.jpg)
 *Image of Continent 2*
 
 <p>
