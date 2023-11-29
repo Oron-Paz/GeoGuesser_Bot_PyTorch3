@@ -6,10 +6,10 @@
 ## Sample Images
 
 ![Sample Image 1](classification/antartica.jpeg)
-*Image of Continent 1*
+*Image of Antartica*
 
 ![Sample Image 2](imagesForReadMe/screenshot_success.jpg)
-*Image of Continent 2*
+*Image of success*
 
 <p>
   RUN PROCESS:
